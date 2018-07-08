@@ -1,0 +1,11 @@
+.header, .common-login, .social-login, .login-button, .logged-user-details {
+    text-align: center
+}
+
+.social-login, .login-button {
+    padding-bottom: 20px
+}
+
+.common-login {
+    padding-top: 15px
+}
